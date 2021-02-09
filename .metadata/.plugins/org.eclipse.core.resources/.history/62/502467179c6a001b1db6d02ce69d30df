@@ -1,0 +1,5 @@
+package com.faiz.comparator;
+
+public class AgeComparator {
+
+}
