@@ -647,3 +647,126 @@ java.io.FileNotFoundException: C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\.m
 2021-02-09 12:39:31,204 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
 2021-02-09 12:39:31,208 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-02-09 12:39:31,208 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 12:47:44,572 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 12:47:44,573 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 12:47:44,575 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 12:47:44,576 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:45:35,009 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:45:35,012 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:45:35,015 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:45:35,015 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:45:58,623 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:45:58,624 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:45:58,625 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:45:58,626 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:46:04,000 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:46:04,000 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:46:04,001 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:46:04,002 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:47:27,469 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:47:27,469 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:47:27,470 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:47:27,470 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:47:54,364 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:47:54,364 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:47:54,365 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:47:54,365 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:47:57,615 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:47:57,615 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:47:57,617 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:47:57,617 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:48:11,078 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:48:11,079 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:48:11,080 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:48:11,080 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:48:16,455 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:48:16,455 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:48:16,456 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:48:16,456 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:49:31,383 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:49:31,383 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:49:31,384 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:49:31,385 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:54:41,115 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:54:41,115 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:54:41,116 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:54:41,117 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:56:00,024 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:56:00,024 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:56:00,025 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:56:00,025 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:56:09,813 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:56:09,813 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:56:09,814 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:56:09,815 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:57:29,444 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:57:29,444 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:57:29,445 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:57:29,446 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:57:33,721 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:57:33,721 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:57:33,723 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:57:33,723 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:57:55,935 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:57:55,935 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:57:55,936 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:57:55,936 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:58:53,831 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:58:53,832 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:58:53,834 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:58:53,834 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:58:56,757 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:58:56,757 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:58:56,757 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:58:56,758 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 15:59:03,637 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:59:03,637 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 15:59:03,638 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 15:59:03,638 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 16:01:10,275 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 16:01:10,275 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 16:01:10,276 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 16:01:10,276 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 16:03:52,592 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 16:03:52,592 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 16:03:52,593 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 16:03:52,593 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 16:04:59,892 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 16:04:59,892 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 16:04:59,893 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 16:04:59,894 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-09 19:22:32,513 [Worker-3: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-09 19:22:40,469 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 19:22:40,470 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-09 19:22:40,474 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-09 19:22:40,474 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-02-10 00:20:11,404 [Worker-4: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-10 00:20:16,861 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 00:20:16,862 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-02-10 00:20:16,864 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-10 00:20:16,864 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-04-19 14:15:47,710 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-19 14:15:56,610 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 14:15:56,610 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-04-19 14:15:56,612 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-19 14:15:56,612 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-04-26 15:56:21,516 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-26 15:57:01,061 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-26 15:57:01,062 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-04-26 15:57:01,064 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-26 15:57:01,064 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-06-02 08:34:16,659 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-02 08:34:49,978 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:34:49,983 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-06-02 08:34:54,247 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:34:54,248 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-06-02 08:34:54,253 [Worker-18: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.faiz:Java8Practice:0.0.1-SNAPSHOT @ C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\pom.xml.
+2021-06-02 08:34:59,378 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:34:59,379 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-06-02 08:35:00,057 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:35:00,058 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-06-02 08:35:00,060 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.faiz:Java8Practice:0.0.1-SNAPSHOT @ C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\pom.xml.
+2021-06-02 08:35:01,096 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:35:01,097 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-06-02 08:35:01,099 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:35:01,099 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources

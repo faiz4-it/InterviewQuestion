@@ -32,6 +32,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\InterviewQuestion"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -44,12 +45,14 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.faiz.Java8Practice"/>
 			<item value="com.faiz.logicallProgrammingQuestion"/>
 		</list>
 		<list key="groupId">
 			<item value="com.faiz"/>
 		</list>
 		<list key="artifactId">
+			<item value="Java8Practice"/>
 			<item value="logicallProgrammingQuestion"/>
 		</list>
 		<list key="projectNameTemplate">
