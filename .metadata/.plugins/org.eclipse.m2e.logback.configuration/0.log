@@ -785,3 +785,8 @@ java.io.FileNotFoundException: C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\.m
 2021-06-02 08:36:36,697 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
 2021-06-02 08:36:36,699 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-02 08:36:36,700 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
+2021-06-02 08:36:47,197 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.faiz:Java8Practice:0.0.1-SNAPSHOT @ C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\pom.xml.
+2021-06-02 08:36:48,219 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:36:48,219 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\main\resources
+2021-06-02 08:36:48,223 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-02 08:36:48,223 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mfasi\Desktop\GitWS\InterviewQuestion\Java8Practice\src\test\resources
